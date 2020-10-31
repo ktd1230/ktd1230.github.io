@@ -2,10 +2,10 @@
 permalink: /about/
 title: "안녕하세요 IT 개발자 김태동입니다."
 
-last_modified_at: 2020-05-01T10:15:22-04:00
-
-layout: posts
+last_modified_at: 2020-10-31T10:15:22-04:00
 author_profile: true
+layout: single
+toc: true
 ---
 
 
