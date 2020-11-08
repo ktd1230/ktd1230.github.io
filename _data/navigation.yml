@@ -4,7 +4,9 @@ main:
     url: /about/
   - title: "Posts"
     url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Projects"
+    url: /portfolio/
+  # - title: "Collections"
+  #   url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
