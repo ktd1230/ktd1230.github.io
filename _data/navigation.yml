@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Posts"
     url: /year-archive/
   - title: "Projects"
     url: /portfolio/
+  - title: "About"
+    url: /about/
   # - title: "Collections"
   #   url: /collection-archive/
   - title: "Sitemap"
