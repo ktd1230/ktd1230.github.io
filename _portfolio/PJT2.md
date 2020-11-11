@@ -2,8 +2,8 @@
 title: "DNS(Developer Network Service)"
 excerpt: "2020.01.13 ~ 2020.02.21 6주간"
 header:
-  image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/unsplash-gallery-image-2-th.jpg
+  image: /assets/images/pjt2/cover.png
+  teaser: assets/images/pjt2/cover.png
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -12,19 +12,30 @@ sidebar:
   # - title: "Responsibilities"
   #   text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/pjt2/code_post.png
+    image_path: assets/images/pjt2/code_post.png
+    alt: "placeholder code_post"
+  - url: /assets/images/pjt2/code_post_big.png
+    image_path: assets/images/pjt2/code_post_big.png
+    alt: "placeholder code_post_big"
+  - url: /assets/images/pjt2/post_tag_search.png
+    image_path: assets/images/pjt2/post_tag_search.png
+    alt: "placeholder post_tag_search"
+  - url: /assets/images/pjt2/post_tag.png
+    image_path: assets/images/pjt2/post_tag.png
+    alt: "placeholder post_tag"
+  - url: /assets/images/pjt2/notice.png
+    image_path: assets/images/pjt2/notice.png
+    alt: "placeholder notice"
+  - url: /assets/images/pjt2/follower.png
+    image_path: assets/images/pjt2/follower.png
+    alt: "placeholder follower"
 ---
 
 - 기관 : 삼성 청년 SW 아카데미
 - 기간 : 2020.01.13 ~ 2020.02.21 6주간
 - 내용 : 개발자를 위한 SNS서비스 개발
+- 언어 : Java, JavaScript, html, css
+- 프레임워크 : Spring boot, vue.js
 
-{% include gallery caption="프로젝트 관련 사진이 들어갈 예정입니다." %}
+{% include gallery caption="개발자를 위한 SNS" %}

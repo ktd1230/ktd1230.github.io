@@ -26,5 +26,7 @@ gallery:
 - 기관 : 삼성 청년 SW 아카데미
 - 기간 : 2020.05.04 ~ 2020.06.19 7주간
 - 내용 : AI를 이용한 사진의 객체 추출과 삭제, 이미지 복원을 통한 에디터 프로젝트
+- 언어 : Python, JavaScript, html, css
+- 프레임워크 : Flask, vue.js
 
 {% include gallery caption="프로젝트 관련 사진이 들어갈 예정입니다." %}

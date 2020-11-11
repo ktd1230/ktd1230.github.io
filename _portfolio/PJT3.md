@@ -26,5 +26,7 @@ gallery:
 - 기관 : 삼성 청년 SW 아카데미
 - 기간 : 2020.03.23 ~ 2020.05.01 6주간
 - 내용 : 빅데이터 기반의 프로젝트로, 회원들의 평점 데이터를 기반으로 한 음식점 추천 서비스 개발
+- 언어 : Python, JavaScript, html, css
+- 프레임워크 : Django, vue.js
 
 {% include gallery caption="프로젝트 관련 사진이 들어갈 예정입니다." %}
