@@ -27,3 +27,7 @@ toc: true
 - TOEIC Speaking : LEVEL 6
 - 삼성 SW 역량테스트 : Level A
 - Database : SQLD
+
+## Awards and Honors
+
+- 삼성 청년 SW 아카데미 교육 수료 우수상
