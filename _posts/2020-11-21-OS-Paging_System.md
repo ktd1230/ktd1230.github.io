@@ -79,3 +79,4 @@ toc_sticky: true
 ### Page Sharing
 - Procedure pages
 - Data page : 데이터 페이지를 공유할 때는 쓰기 작업이 가능하다면 병행성(concurrency) 제어기법 관리하에서만 가능하다.
+
